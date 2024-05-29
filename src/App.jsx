@@ -4,6 +4,7 @@
 import './App.css'
 //import DetailsPage from './Components/DetailsPage'
 import IndexPage from './Components/IndexPage'
+//import CartPage from './Components/CartPage'
 
 function App() {
   //const [count, setCount] = useState(0)
