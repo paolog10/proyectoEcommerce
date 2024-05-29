@@ -2,6 +2,7 @@
 //import reactLogo from './assets/react.svg'
 //import viteLogo from '/vite.svg'
 import './App.css'
+//import DetailsPage from './Components/DetailsPage'
 import IndexPage from './Components/IndexPage'
 
 function App() {
